@@ -1,1 +1,4 @@
-# Git-GitHub-5-Merge-Conflits
+Salut
+Hello
+Hola
+Привет
